@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 9bc71f656728b9f42a5387b68acf9588
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - iCiel Finch
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e8678b40a15571a4a82541cbea61afd9, type: 3}
+  - {fileID: 12800000, guid: c4c7abca8e15dc340bc5af85f25b187b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
